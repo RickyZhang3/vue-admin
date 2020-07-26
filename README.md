@@ -1,1 +1,1 @@
-个人学习使用，原项目地址：(https://github.com/iczer/vue-antd-admin)
+个人学习使用，原项目地址：https://github.com/iczer/vue-antd-admin
